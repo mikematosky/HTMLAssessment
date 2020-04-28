@@ -52,3 +52,7 @@ ul[id="teamRoster"]> li:nth-child(2){
 #checkbox-grid {
     list-style-type: none;
 }
+
+ol li:first-child {
+    font-weight: bold;
+}
