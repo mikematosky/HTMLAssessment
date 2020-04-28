@@ -56,3 +56,11 @@ ul[id="teamRoster"]> li:nth-child(2){
 ol li:first-child {
     font-weight: bold;
 }
+
+tr:nth-child(1) {
+    background-color: darkgray;
+}
+
+tr:nth-child(2) {
+    background-color: lightgray;
+}
